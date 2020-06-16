@@ -1,0 +1,41 @@
+[33mcommit d9c417529aa91d13bcbe2698bbe41c7c5cc01f22[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-1[m[33m, [m[1;31morigin/feature-1[m[33m)[m
+Author: A san <d.dumdummy123@gmail.com>
+Date:   Tue Jun 16 09:44:02 2020 +0200
+
+    commit this change to hello github.txt
+
+[33mcommit 7549ec14d017b8596db65ca87f9bfa7401a8496d[m
+Author: Blueskys1 <dudedummy12@gmail.com>
+Date:   Mon Jun 15 17:35:57 2020 +0200
+
+    another commit change nowww
+
+[33mcommit 16ddad7c652802bd9b1552cd8cd4d46e441dbfee[m
+Author: sangithubber <66942573+sangithubber@users.noreply.github.com>
+Date:   Mon Jun 15 16:48:01 2020 +0200
+
+    Create another-file.txt
+
+[33mcommit fc3033547ed0bb9401c02b323f16ae799563d781[m
+Author: sangithubber <66942573+sangithubber@users.noreply.github.com>
+Date:   Mon Jun 15 11:29:23 2020 +0200
+
+    File list.txt was created in the feature-1 branch
+
+[33mcommit 3abac053b1f2c87af003b73035925c359599b621[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: sangithubber <66942573+sangithubber@users.noreply.github.com>
+Date:   Mon Jun 15 11:00:58 2020 +0200
+
+    Create hello-github.txt
+
+[33mcommit f216a5cd81113d8f6a3dd8142bf56f91aec1e43f[m
+Author: sangithubber <66942573+sangithubber@users.noreply.github.com>
+Date:   Mon Jun 15 10:39:27 2020 +0200
+
+    Update README.md
+
+[33mcommit 7d5b837f4cccc9db92351e8db2c130d57106c3e7[m
+Author: sangithubber <66942573+sangithubber@users.noreply.github.com>
+Date:   Mon Jun 15 10:30:51 2020 +0200
+
+    Initial commit
